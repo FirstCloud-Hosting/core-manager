@@ -1,0 +1,139 @@
+[data-theme="dark"] {
+  background-color: #111 !important;
+  color: #eee;
+}
+
+[data-theme="dark"] info {
+  color: #eee;
+}
+
+[data-theme="dark"] .form-control {
+  background-color: #cdc9c3 !important;
+}
+
+[data-theme="dark"] .app-content {
+  background-color: #2D2D2D !important;
+}
+
+[data-theme="dark"] .app-title {
+  background-color: #1A1A1A !important;
+}
+
+[data-theme="dark"] .tile {
+  background-color: #1A1A1A !important;
+  position: relative;
+  border-radius: 3px;
+  padding: 20px;
+  -webkit-box-shadow: 0 2px 2px 0 rgba(0, 0, 0, 0.14), 0 1px 5px 0 rgba(0, 0, 0, 0.12), 0 3px 1px -2px rgba(0, 0, 0, 0.2);
+          box-shadow: 0 2px 2px 0 rgba(0, 0, 0, 0.14), 0 1px 5px 0 rgba(0, 0, 0, 0.12), 0 3px 1px -2px rgba(0, 0, 0, 0.2);
+  margin-bottom: 30px;
+  -webkit-transition: all 0.3s ease-in-out;
+  -o-transition: all 0.3s ease-in-out;
+  transition: all 0.3s ease-in-out;
+}
+
+[data-theme="dark"] .tile-custom {
+  background-color: #4C4C4C !important;
+  position: relative;
+  border-radius: 3px;
+  padding: 20px;
+  -webkit-box-shadow: 0 2px 2px 0 rgba(0, 0, 0, 0.14), 0 1px 5px 0 rgba(0, 0, 0, 0.12), 0 3px 1px -2px rgba(0, 0, 0, 0.2);
+          box-shadow: 0 2px 2px 0 rgba(0, 0, 0, 0.14), 0 1px 5px 0 rgba(0, 0, 0, 0.12), 0 3px 1px -2px rgba(0, 0, 0, 0.2);
+  margin-bottom: 30px;
+  -webkit-transition: all 0.3s ease-in-out;
+  -o-transition: all 0.3s ease-in-out;
+  transition: all 0.3s ease-in-out;
+}
+
+[data-theme="dark"] .widget-small {
+  background-color: #1A1A1A !important;
+  color: #eee;
+}
+
+[data-theme="dark"] .widget-small.info.coloured-icon {
+  background-color: #1A1A1A;
+  color: #eee;
+}
+
+[data-theme="dark"] .timeline-post {
+  background-color: #4C4C4C !important;
+}
+
+[data-theme="dark"] .bg-light {
+  background-color: #333 !important;
+}
+
+[data-theme="dark"] .bg-white {
+  background-color: #000 !important;
+}
+
+[data-theme="dark"] .bg-black {
+  background-color: #eee !important;
+}
+
+[data-theme="dark"] .text-muted, .app-notification__meta {
+  color: #eee !important;
+}
+
+[data-theme="dark"] .toggle-flip input[type="checkbox"] + .flip-indecator {
+  position: relative;
+  width: 60px;
+  height: 30px;
+  display: block;
+  cursor: pointer;
+  -webkit-user-select: none;
+     -moz-user-select: none;
+      -ms-user-select: none;
+          user-select: none;
+  -webkit-perspective: 90px;
+          perspective: 90px;
+  color: #4C4C4C;
+}
+
+.custom-control-input {
+  position: absolute;
+  left: 0;
+  z-index: -1; // Put the input behind the label so it doesn't overlay text
+  width: $custom-control-indicator-size;
+  height: ($font-size-base * $line-height-base + $custom-control-indicator-size) / 2;
+  opacity: 0;
+
+  &:checked ~ .custom-control-label::before {
+    color: $custom-control-indicator-checked-color;
+    border-color: $custom-control-indicator-checked-border-color;
+    @include gradient-bg($custom-control-indicator-checked-bg);
+    @include box-shadow($custom-control-indicator-checked-box-shadow);
+  }
+
+  &:focus ~ .custom-control-label::before {
+    // the mixin is not used here to make sure there is feedback
+    @if $enable-shadows {
+      box-shadow: $input-box-shadow, $input-focus-box-shadow;
+    } @else {
+      box-shadow: $custom-control-indicator-focus-box-shadow;
+    }
+  }
+
+  &:focus:not(:checked) ~ .custom-control-label::before {
+    border-color: $custom-control-indicator-focus-border-color;
+  }
+
+  &:not(:disabled):active ~ .custom-control-label::before {
+    color: $custom-control-indicator-active-color;
+    background-color: $custom-control-indicator-active-bg;
+    border-color: $custom-control-indicator-active-border-color;
+    @include box-shadow($custom-control-indicator-active-box-shadow);
+  }
+
+  // Use [disabled] and :disabled to work around https://github.com/twbs/bootstrap/issues/28247
+  &[disabled],
+  &:disabled {
+    ~ .custom-control-label {
+      color: $custom-control-label-disabled-color;
+
+      &::before {
+        background-color: $custom-control-indicator-disabled-bg;
+      }
+    }
+  }
+}

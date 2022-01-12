@@ -1,0 +1,26 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: SRVAdminCenter Administration Region Module - V1.0\n"
+"POT-Creation-Date: 2018-05-12 10:35+0200\n"
+"PO-Revision-Date: 2021-02-01 14:51+0100\n"
+"Last-Translator: \n"
+"Language-Team: Kévin Falcoz (0pc0deFR) <0pc0deFR@gmail.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.4.2\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"Language: fr_FR\n"
+
+msgid "Regions Administration"
+msgstr "Administration des régions"
+
+msgid "Edit Region Permissions"
+msgstr "Editer les permissions d'une région"
+
+msgid "Groups"
+msgstr "Groupes"
+
+msgid "Choose a region name (previously created) to add the user to an access group (previously created)"
+msgstr "Choisissez un nom de région (créé précèdemment) pour ajouter l'utilisateur à un groupe d'accès (crée précèdemment)"

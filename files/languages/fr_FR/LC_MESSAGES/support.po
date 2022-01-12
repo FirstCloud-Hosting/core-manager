@@ -1,0 +1,47 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: SRVAdminCenter Support Module - V1.0\n"
+"POT-Creation-Date: 2018-05-12 10:35+0200\n"
+"PO-Revision-Date: 2021-01-30 18:51+0100\n"
+"Last-Translator: \n"
+"Language-Team: Kévin Falcoz (0pc0deFR) <0pc0deFR@gmail.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.4.2\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"Language: fr_FR\n"
+
+msgid "Support"
+msgstr "Support"
+
+msgid "Waiting for support"
+msgstr "En attente du support"
+
+msgid "Waiting for customer"
+msgstr "En attente du client"
+
+msgid "Category"
+msgstr "Catégorie"
+
+msgid "Title"
+msgstr "Titre"
+
+msgid "Message"
+msgstr "Contenu"
+
+msgid "Closed"
+msgstr "Cloturé"
+
+msgid "Status"
+msgstr "Statut"
+
+msgid "Not categorized"
+msgstr "Non catégorisé"
+
+msgid "New Ticket"
+msgstr "Nouveau ticket"
+
+msgid "The category depends on the module for which you have a request"
+msgstr "La catégorie dépend du module pour lequel vous avez une question"
