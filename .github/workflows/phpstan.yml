@@ -1,0 +1,13 @@
+name: PHPStan
+
+on: [push, pull_request]
+
+jobs:
+  phpstan:
+    name: phpstan
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v2
+      - name: PHPStan
+        uses: chindit/actions-phpstan@master
