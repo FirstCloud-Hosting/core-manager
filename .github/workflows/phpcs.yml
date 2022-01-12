@@ -1,10 +1,10 @@
-name: Static analysis
+name: PHPCS
 
 on: [push, pull_request]
 
 jobs:
-  psalm:
-    name: Psalm
+  phpcs:
+    name: phpcs
     runs-on: ubuntu-latest
     steps:
       - name: Checkout code
