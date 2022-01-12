@@ -1,0 +1,74 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: SRVAdminCenter DNS Servers Module - V1.0\n"
+"POT-Creation-Date: 2018-05-12 10:35+0200\n"
+"PO-Revision-Date: 2020-06-09 17:40+0200\n"
+"Last-Translator: \n"
+"Language-Team: Kévin Falcoz (0pc0deFR) <0pc0deFR@gmail.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.3.1\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"Language: fr_FR\n"
+
+msgid "DNS Servers"
+msgstr "Serveurs DNS"
+
+msgid "DNS Configuration"
+msgstr "Configuration DNS"
+
+msgid "Target"
+msgstr "Cible"
+
+msgid "TTL"
+msgstr "TTL"
+
+msgid "Domain"
+msgstr "Domaine"
+
+msgid "Indicator"
+msgstr "Indicateur"
+
+msgid "Label"
+msgstr "Etiquette"
+
+msgid "Order"
+msgstr "Ordre"
+
+msgid "Preference"
+msgstr "Preference"
+
+msgid "Attribute"
+msgstr "Attribut"
+
+msgid "Service"
+msgstr "Service"
+
+msgid "Priority"
+msgstr "Priorité"
+
+msgid "Weight"
+msgstr "Poids"
+
+msgid "Port"
+msgstr "Port"
+
+msgid "Algorithm"
+msgstr "Algorithme"
+
+msgid "Footprint Type"
+msgstr "Type d'empreinte"
+
+msgid "Usage"
+msgstr "Usage"
+
+msgid "Selector"
+msgstr "Sélecteur"
+
+msgid "Type of match"
+msgstr "Type de correspondance"
+
+msgid "Name Server"
+msgstr "Serveur de nom"

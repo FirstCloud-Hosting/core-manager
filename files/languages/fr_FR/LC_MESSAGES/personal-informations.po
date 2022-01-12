@@ -1,0 +1,56 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: SRVAdminCenter Personal Informations Module - V1.0\n"
+"POT-Creation-Date: 2018-05-12 10:35+0200\n"
+"PO-Revision-Date: 2018-05-12 10:47+0200\n"
+"Last-Translator: \n"
+"Language-Team: Kévin Falcoz (0pc0deFR) <0pc0deFR@gmail.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.7.1\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"Language: fr_FR\n"
+
+msgid "Personal Informations"
+msgstr "Informations personnelles"
+
+msgid "Legal Form"
+msgstr "Forme juridique"
+
+msgid "Individual"
+msgstr "Particulier"
+
+msgid "Company"
+msgstr "Entreprise"
+
+msgid "Association"
+msgstr "Association"
+
+msgid "First Name"
+msgstr "Prénom"
+
+msgid "Last Name"
+msgstr "Nom de famille"
+
+msgid "Company Name"
+msgstr "Nom de l'entreprise"
+
+msgid "Address"
+msgstr "Addresse"
+
+msgid "Additional Address"
+msgstr "Complément d'adresse"
+
+msgid "Postal Code"
+msgstr "Code postal"
+
+msgid "City"
+msgstr "Ville"
+
+msgid "Country"
+msgstr "Pays"
+
+msgid "Phone Number"
+msgstr "Numéro de téléphone"

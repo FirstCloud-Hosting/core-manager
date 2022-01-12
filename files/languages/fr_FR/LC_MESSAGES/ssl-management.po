@@ -1,0 +1,56 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: SRVAdminCenter SSL Management Module - V1.0\n"
+"POT-Creation-Date: 2018-05-12 10:35+0200\n"
+"PO-Revision-Date: 2020-10-17 19:02+0200\n"
+"Last-Translator: \n"
+"Language-Team: Kévin Falcoz (0pc0deFR) <0pc0deFR@gmail.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.4.1\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"Language: fr_FR\n"
+
+msgid "SSL Management"
+msgstr "Gestion SSL"
+
+msgid "Domain"
+msgstr "Domaine"
+
+msgid "Port"
+msgstr "Port"
+
+msgid "Serial Number"
+msgstr "Numéro de série"
+
+msgid "Valid From"
+msgstr "Valide depuis"
+
+msgid "Valid Until"
+msgstr "Valide jusqu'à"
+
+msgid "Issuer"
+msgstr "Emetteur"
+
+msgid "OCSP"
+msgstr "OCSP"
+
+msgid "Algorithm"
+msgstr "Algorithme"
+
+msgid "Encryption level"
+msgstr "Niveau de chiffrement"
+
+msgid "Security level"
+msgstr "Niveau de sécurité"
+
+msgid "Compatible browsers"
+msgstr "Navigateurs compatibles"
+
+msgid "Browser"
+msgstr "Navigateur"
+
+msgid "Version"
+msgstr "Version"

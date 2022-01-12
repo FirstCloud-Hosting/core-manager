@@ -1,0 +1,319 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: fr\n"
+"X-Generator: Poedit 2.4.2\n"
+
+msgid "Servers"
+msgstr "Serveurs"
+
+msgid "Server"
+msgstr "Serveur"
+
+msgid "Server Edition"
+msgstr "Editer un serveur"
+
+msgid "Initialize a new server"
+msgstr "Intialiser un nouveau serveur"
+
+msgid "Manage"
+msgstr "Gérer"
+
+msgid "Groups List"
+msgstr "Liste des groupes"
+
+msgid "Unix Groups"
+msgstr "Groupes Unix"
+
+msgid "Users List"
+msgstr "Liste des utilisateurs"
+
+msgid "Unix Users"
+msgstr "Utilisateurs Unix"
+
+msgid "System"
+msgstr "Système"
+
+msgid "Display/Hide"
+msgstr "Afficher/Masquer"
+
+msgid "Return to servers list"
+msgstr "Retourner à la liste des serveurs"
+
+msgid "Hostname"
+msgstr "Nom d'hôte"
+
+msgid "Reboot"
+msgstr "Redémarrer"
+
+msgid "View System Upgrade"
+msgstr "Voir les mises à jour système"
+
+msgid "Apply System Upgrade"
+msgstr "Appliquer les mises à jour système"
+
+msgid "List Upgrades"
+msgstr "Liste des mises à jour"
+
+msgid "List of available updates"
+msgstr "Liste des mises à jour disponibles"
+
+msgid "No list of updates available. Please start the update search"
+msgstr ""
+"Aucune liste de mises à jour disponible. S'il vous plait, lancez la recherche de "
+"mise à jour"
+
+msgid "Refresh List System Upgrade"
+msgstr "Rafraîchir la liste des mises à jour système"
+
+msgid "Security Status"
+msgstr "Etat de la sécurité"
+
+msgid "Your secure score is:"
+msgstr "Votre score de sécurité est :"
+
+msgid "Suggestions for improving server security:"
+msgstr "Suggestions pour améliorer la sécurité du serveur :"
+
+msgid "Start the security audit"
+msgstr "Executer une analyse de sécurité"
+
+msgid ""
+"The server is currently being analyzed. Please wait a few minutes until the scan "
+"ends."
+msgstr ""
+"Le serveur est en cours d'analyse. Veuillez patienter quelques minutes jusqu'à la "
+"fin de l'analyse."
+
+msgid ""
+"It is not possible to evaluate the security of your server because it has never "
+"been analyzed. Please start an security audit."
+msgstr ""
+"Il n'est pas possible d'évaluer la sécurité de votre serveur car il n'a jamais "
+"été analysé. Veuillez lancer un audit de sécurité."
+
+msgid "Network"
+msgstr "Réseau"
+
+msgid "Interfaces"
+msgstr "Interfaces"
+
+msgid "Routes"
+msgstr "Routes"
+
+msgid "HW Address"
+msgstr "Adresse MAC"
+
+msgid "Netmask"
+msgstr "Masque réseau"
+
+msgid "Status"
+msgstr "Statut"
+
+msgid "Interface"
+msgstr "Interface"
+
+msgid "Destination"
+msgstr "Destination"
+
+msgid "Gateway"
+msgstr "Passerelle"
+
+msgid "Flags"
+msgstr "Flags"
+
+msgid "Disks & Partitions Usage"
+msgstr "Utilisation des disques et partitions"
+
+msgid "Server Initialization"
+msgstr "Initialisation d'un serveur"
+
+msgid "Template Provider"
+msgstr "Modèles"
+
+msgid "OS"
+msgstr "OS"
+
+msgid "Arch"
+msgstr "Arch"
+
+msgid "Version"
+msgstr "Version"
+
+msgid "Old Version"
+msgstr "Ancienne Version"
+
+msgid "New Version"
+msgstr "Nouvelle Version"
+
+msgid "Installed Packages"
+msgstr "Paquets installés"
+
+msgid "New Package"
+msgstr "Nouveau paquet"
+
+msgid "Name"
+msgstr "Nom"
+
+msgid "IP Address"
+msgstr "Adresse IP"
+
+msgid "SSH Port"
+msgstr "Port SSH"
+
+msgid "To deploy by root password?"
+msgstr "Déployer avec le mot de passe root ?"
+
+msgid "Root Password"
+msgstr "Mot de passe root"
+
+msgid "Root Key"
+msgstr "Clé root"
+
+msgid "It's master region server?"
+msgstr "Serveur de région maitre ?"
+
+msgid "Disk Name"
+msgstr "Nom du disque"
+
+msgid "Type"
+msgstr "Type"
+
+msgid "Partition Name"
+msgstr "Nom de la partition"
+
+msgid "Available"
+msgstr "Disponible"
+
+msgid "Used"
+msgstr "Utilisé"
+
+msgid "Capacity"
+msgstr "Capacité"
+
+msgid "Filesystem"
+msgstr "Système de fichiers"
+
+msgid "Group Name"
+msgstr "Nom du groupe"
+
+msgid "User Name"
+msgstr "Nom d'utilisateur"
+
+msgid "Home"
+msgstr "Dossier Home"
+
+msgid "Shell"
+msgstr "Shell"
+
+msgid "Primary Group"
+msgstr "Groupe principal"
+
+msgid "Password"
+msgstr "Mot de passe"
+
+msgid "Manage services on"
+msgstr "Configurer les services de"
+
+msgid "Enable"
+msgstr "Activer"
+
+msgid "Service"
+msgstr "Service"
+
+msgid "Configure"
+msgstr "Configurer"
+
+msgid "History"
+msgstr "Historique"
+
+msgid "In maintenance"
+msgstr "En maintenance"
+
+msgid "on"
+msgstr "de"
+
+msgid "Logs for"
+msgstr "Journaux pour"
+
+msgid "Logs"
+msgstr "Journaux"
+
+msgid "Function"
+msgstr "Fonction"
+
+msgid "Created"
+msgstr "Créé"
+
+msgid "Executed"
+msgstr "Executé"
+
+msgid "More"
+msgstr "Détails"
+
+msgid "Result of event"
+msgstr "Résultat de l'évenement"
+
+msgid "Configuration"
+msgstr "Configuration"
+
+msgid "This service does not have a configuration option."
+msgstr "Ce service n'a pas d'option de configuration."
+
+msgid "Return to server configuration"
+msgstr "Retourner à la configuration du serveur"
+
+msgid "Change Hostname"
+msgstr "Changer le nom d'hôte"
+
+msgid "New hostname"
+msgstr "Nouveau nom d'hôte"
+
+msgid "Zone"
+msgstr "Zone"
+
+msgid "New Zone"
+msgstr "Nouvelle zone"
+
+msgid "Delete Zone"
+msgstr "Supprimer une zone"
+
+msgid "Firewall"
+msgstr "Pare-feu"
+
+msgid "Port"
+msgstr "Port"
+
+msgid "Protocol"
+msgstr "Protocole"
+
+msgid "Permanent"
+msgstr "Permanent"
+
+msgid "New Rule"
+msgstr "Nouvelle règle"
+
+msgid "Simple Mode"
+msgstr "Mode simplifié"
+
+msgid "The public ip address of your server"
+msgstr "L'IP public de votre serveur"
+
+msgid "You can use the port you need, by default port 22"
+msgstr "Vous pouvez utiliser le mode que vous souhaitez, par défaut le port 22"
+
+msgid "Need a valid root/private OpenSSH key (puttygen export OpenSSH key)"
+msgstr "Besoin d'une clé OpenSSH privée/racine valide (puttygen export OpenSSH key)"
+
+msgid "Your first server must be a master region server"
+msgstr "Votre premier serveur doit être un serveur maître de région"
+
+msgid "You must at least have a region name created to be able to use it here"
+msgstr "Vous devez au moins avoir créé un nom de région pour pouvoir l'utiliser ici"

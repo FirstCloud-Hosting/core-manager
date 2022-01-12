@@ -1,0 +1,425 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: SRVAdminCenter Core - V1.0\n"
+"POT-Creation-Date: 2018-05-12 08:14+0200\n"
+"PO-Revision-Date: 2021-02-01 15:28+0100\n"
+"Last-Translator: \n"
+"Language-Team: Kévin Falcoz (0pc0deFR) <0pc0deFR@gmail.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.4.2\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"Language: fr_FR\n"
+
+msgid "Dashboard"
+msgstr "Tableau de bord"
+
+msgid "Welcome, "
+msgstr "Bienvenue, "
+
+msgid "Logout"
+msgstr "Déconnexion"
+
+msgid "Profile"
+msgstr "Profil"
+
+msgid "Manage"
+msgstr "Administrer"
+
+msgid "Account"
+msgstr "Mon compte"
+
+msgid "Services"
+msgstr "Services"
+
+msgid "Groups"
+msgstr "Groupes"
+
+msgid "Languages"
+msgstr "Langues"
+
+msgid "Users"
+msgstr "Utilisateurs"
+
+msgid "Modules"
+msgstr "Modules"
+
+msgid "Update"
+msgstr "Mise à jour"
+
+msgid "Configurations"
+msgstr "Configurations"
+
+msgid "Organizations"
+msgstr "Organisations"
+
+msgid "Tasks"
+msgstr "Taches"
+
+msgid "Gifts"
+msgstr "Promotions"
+
+msgid "Price List"
+msgstr "Tarification"
+
+msgid "Invoices"
+msgstr "Factures"
+
+msgid "Regions"
+msgstr "Régions"
+
+msgid "Regions Administration"
+msgstr "Administration des régions"
+
+msgid "Servers"
+msgstr "Serveurs"
+
+msgid "Managed Services"
+msgstr "Services managés"
+
+msgid "Available Services"
+msgstr "Services disponibles"
+
+msgid "Pending Tasks"
+msgstr "Tâches en attente"
+
+msgid "Add"
+msgstr "Ajouter"
+
+msgid "Username"
+msgstr "Nom d'utilisateur"
+
+msgid "Email"
+msgstr "Adresse email"
+
+msgid "Organization Key"
+msgstr "Clé d'organisation"
+
+msgid "Current Password"
+msgstr "Mot de passe actuel"
+
+msgid "New Password"
+msgstr "Nouveau mot de passe"
+
+msgid "Repeat New Password"
+msgstr "Répéter nouveau mot de passe"
+
+msgid "Enable 2FA"
+msgstr "Activer 2FA"
+
+msgid "Disable 2FA"
+msgstr "Désactiver 2FA"
+
+msgid "Two factor authentication"
+msgstr "Double authentification"
+
+msgid "Confirmation Code"
+msgstr "Code de confirmation"
+
+msgid "You need to scan the code from the image with a smartphone OTP application to get the confirmation code to insert"
+msgstr "Vous devez scanner le code de l'image avec une application OTP pour smartphone afin d'obtenir le code de confirmation à insérer"
+
+msgid "Group"
+msgstr "Groupe"
+
+msgid "Activation"
+msgstr "Activé"
+
+msgid "Actions"
+msgstr "Actions"
+
+msgid "View"
+msgstr "Voir"
+
+msgid "Edit"
+msgstr "Modifier"
+
+msgid "Delete"
+msgstr "Supprimer"
+
+msgid "Close"
+msgstr "Fermer"
+
+msgid "Yes"
+msgstr "Oui"
+
+msgid "No"
+msgstr "Non"
+
+msgid "Save"
+msgstr "Enregistrer"
+
+msgid "Execute"
+msgstr "Exécuter"
+
+msgid "User Edit"
+msgstr "Modifier un utilisateur"
+
+msgid "Name"
+msgstr "Nom"
+
+msgid "Code"
+msgstr "Code"
+
+msgid "Language Edit"
+msgstr "Modifier une langue"
+
+msgid "Type"
+msgstr "Type"
+
+msgid "Page"
+msgstr "Page"
+
+msgid "Module Edit"
+msgstr "Modifier un module"
+
+msgid "Language"
+msgstr "Langue"
+
+msgid "According to the choice the dashboard will change language"
+msgstr "Selon le choix, le tableau de bord changera de langue"
+
+msgid "OFF"
+msgstr "NON"
+
+msgid "ON"
+msgstr "OUI"
+
+msgid "Select Permissions"
+msgstr "Sélectionner les permissions"
+
+msgid "Users Groups"
+msgstr "Groupes d'utilisateurs"
+
+msgid "Group Edit"
+msgstr "Modifier un groupe"
+
+msgid "Current Core Version"
+msgstr "Version actuelle du core"
+
+msgid "Last Core Version"
+msgstr "Dernière version du core"
+
+msgid "Upgrade"
+msgstr "Mettre à niveau"
+
+msgid "An update is available. Do you want install the latest core version?"
+msgstr "Une mise à jour est disponible. Voulez-vous installer la dernière version de base?"
+
+msgid "Error"
+msgstr "Erreur"
+
+msgid "Success"
+msgstr "Succès"
+
+msgid "Previous"
+msgstr "Précédent"
+
+msgid "Next"
+msgstr "Suivant"
+
+msgid "Return"
+msgstr "Retour"
+
+msgid "Configurations Edition"
+msgstr "Edition des configurations"
+
+msgid "Maintenance Mode"
+msgstr "Mode maintenance"
+
+msgid "Maintenance Message"
+msgstr "Message du mode maintenance"
+
+msgid "Enable"
+msgstr "Activé"
+
+msgid "Disable"
+msgstr "Désactivé"
+
+msgid "Site Name"
+msgstr "Nom du site"
+
+msgid "Site Description"
+msgstr "Description du site"
+
+msgid "Company Name"
+msgstr "Nom de la société"
+
+msgid "Address"
+msgstr "Adresse"
+
+msgid "Phone Number"
+msgstr "Numéro de téléphone"
+
+msgid "RCS Number"
+msgstr "Numéro d'enregistrement RCS"
+
+msgid "RCS City"
+msgstr "Ville d'enregistrement RCS"
+
+msgid "Legal Form"
+msgstr "Forme juridique"
+
+msgid "Share Capital"
+msgstr "Capital social"
+
+msgid "VAT Number"
+msgstr "Numéro de TVA"
+
+msgid "SIRET Number"
+msgstr "Numéro de SIRET"
+
+msgid "Clear Cache"
+msgstr "Vider le cache"
+
+msgid "Flush Cache"
+msgstr "Vider le cache"
+
+msgid "Price Edition"
+msgstr "Edition des tarifs"
+
+msgid "Price (in €)"
+msgstr "Prix (en €)"
+
+msgid "From (number of servers)"
+msgstr "De (nombre de serveurs)"
+
+msgid "To (number of servers)"
+msgstr "A (nombre de serveurs)"
+
+msgid "Providers"
+msgstr "Fournisseurs"
+
+msgid "Provider"
+msgstr "Fournisseur"
+
+msgid "Providers List"
+msgstr "Liste des fournisseurs"
+
+msgid "Provider Name"
+msgstr "Nom du fournisseur"
+
+msgid "Template Name"
+msgstr "Nom du modèle"
+
+msgid "You can choose the name you want"
+msgstr "Vous pouvez choisir le nom que vous voulez"
+
+msgid "The organization values can be see on your scaleway account, on credential then API Keys. You need to use the <Organization ID> on the API Keys section"
+msgstr "Les valeurs de l'organisation peuvent être consultées sur votre compte scaleway, sur les justificatifs d'identité puis sur les clés API. Vous devez utiliser le <Organization ID> dans la section API Keys"
+
+msgid "The token values is your <Secret key> when you generate new API Key (appear just once time) on your scaleway account"
+msgstr "La valeur du jeton est votre <clé secrète> lorsque vous générez une nouvelle clé API (qui n'apparaît qu'une seule fois) sur votre compte scaleway"
+
+msgid "The token values is your <Access key> when you generate new API Key on your scaleway account"
+msgstr "La valeur du token est votre <clé d'accès> lorsque vous générez une nouvelle clé API sur votre compte scaleway"
+
+msgid "The region value is a geographical area. exemple for the france and Paris: fr-par"
+msgstr "La valeur de la région est une zone géographique. exemple pour la france et Paris : fr-par"
+
+msgid "The zone value is the availability zone, exemple for the france and the second paris availability zone: fr-par-2"
+msgstr "La valeur de la zone est la zone de disponibilité, par exemple pour la france et la deuxième zone de disponibilité parisienne : fr-par-2"
+
+msgid "Your username login on OpenStack dashboard"
+msgstr "Votre identifiant de connexion sur le tableau de bord d'OpenStack"
+
+msgid "Your password login on OpenStack dashboard"
+msgstr "Votre mot de passe de connexion sur le tableau de bord d'OpenStack"
+
+msgid "The region value is a geographical area. for exemple: RBX-1 or GRA-1 or BHS-1..."
+msgstr "La valeur de la région est une zone géographique. par exemple : RBX-1 ou GRA-1 ou BHS-1..."
+
+msgid "Your openstack account name"
+msgstr "Votre nom de compte d'ouverture de session"
+
+msgid "Your openstack tenant name (Identity v2) or project name (Identity)"
+msgstr "Le nom du locataire de votre opentack (Identité v2) ou le nom du projet (Identité)"
+
+msgid "Your openstack account password"
+msgstr "Mot de passe de votre compte openstack"
+
+msgid "The Name of the Domain to scope to (Identity v3)"
+msgstr "Le nom du domaine à couvrir jusqu'à (Identité v3)"
+
+msgid "The Identity authentication URL"
+msgstr "L'URL d'authentification de l'identité"
+
+msgid "The region of the OpenStack cloud to use"
+msgstr "La région du cloud OpenStack à utiliser"
+
+msgid "Security Advisory"
+msgstr "Alertes de sécurité"
+
+msgid "Invoice Date"
+msgstr "Date de facturation"
+
+msgid "Due Date"
+msgstr "Date de paiement"
+
+msgid "Amount"
+msgstr "Montant"
+
+msgid "Status"
+msgstr "Statut"
+
+msgid "Pay"
+msgstr "Payer"
+
+msgid "Print"
+msgstr "Imprimer"
+
+msgid "Receipt"
+msgstr "Recu"
+
+msgid "Reset"
+msgstr "Réinitialiser"
+
+msgid "Some fields are missing, please fill them all"
+msgstr "Certains champs sont manquants, veuillez tous les remplir"
+
+msgid "Invoice Configuration"
+msgstr "Configuration de la facturation"
+
+msgid "Price"
+msgstr "Prix"
+
+msgid "Free Servers"
+msgstr "Serveurs gratuits"
+
+msgid "Applications Keys"
+msgstr "Clés d'applications"
+
+msgid "Description"
+msgstr "Description"
+
+msgid "Secret Key"
+msgstr "Clé secrète"
+
+msgid "Created"
+msgstr "Créé"
+
+msgid "No applications keys available"
+msgstr "Aucune clés d'applications disponibles"
+
+msgid "Webinars"
+msgstr "Webinaires"
+
+msgid "SSL Management"
+msgstr "Gestion SSL"
+
+msgid "Invoices Management"
+msgstr "Gestion des factures"
+
+msgid "Do you want to delete this object?"
+msgstr "Voulez-vous supprimer cet objet ?"
+
+msgid "Delete object"
+msgstr "Suppression de l'objet"
+
+msgid "This object will be deleted"
+msgstr "L'objet va être supprimé"
+
+msgid "Dark Mode"
+msgstr "Mode sombre"
